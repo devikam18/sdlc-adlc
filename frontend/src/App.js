@@ -33,6 +33,7 @@ function App() {
 
         <h1 style={{ color: "#fff" }}>☁️ Cloud Service</h1>
         <p style={{ color: "#9ca3af" }}>Backend Health Monitor</p>
+        <h2>System Health Monitoring Dashboard</h2>
 
         <div style={{
           marginTop: "30px",
