@@ -24,7 +24,6 @@ http://localhost:3000
 
 Result:
 - UI loaded successfully
-- Dashboard visible
 
 Status: ✅ PASS
 
@@ -32,16 +31,23 @@ Status: ✅ PASS
 
 ## Test 3: Frontend-Backend Integration
 
-Check:
-Frontend displays backend status.
-
 Result:
-"Backend Status: ok" is visible on UI.
+"Backend Status: ok" displayed on UI
 
 Status: ✅ PASS
 
 ---
 
+## Screenshots
+
+### Backend Health
+![Backend](screenshots/backend-health.png)
+
+### Frontend UI
+![Frontend](screenshots/frontend-ui.png)
+
+---
+
 ## Conclusion
 
-All services are running correctly and integrated successfully.
+All services are working and integrated successfully.
